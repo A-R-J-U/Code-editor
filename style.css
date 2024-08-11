@@ -67,12 +67,22 @@ body {
     margin: auto;
     grid-area: code;
     padding-top: 0;
-    border-radius: 20px;
+    border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.238);
     color: white;
     font-weight: 300;
     font-size: 18px;
+    cursor: pointer;
 }
+
+.code textarea::-webkit-scrollbar{
+    width: 0.4rem;
+  }
+
+  .code textarea::-webkit-scrollbar-thumb{
+    background-color: rgb(255, 253, 253);
+    border-radius: .4rem;
+  }
 
 .code div{
 
