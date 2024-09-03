@@ -21,7 +21,7 @@ To run this project locally:
 1.Clone the repo:
   
 ```bash
-  git clone https://github.com/your-username/online-code-editor.git
+  git clone https://github.com/A-R-J-U/Code-Editor.git
 ```
 
 2.Open index.html in your browser to start coding!
