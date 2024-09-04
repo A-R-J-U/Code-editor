@@ -27,6 +27,6 @@ To run this project locally:
 2.Open  **index.html** in your browser to start coding!
 
 
-# Preview
+# 📷 Preview
 
 ![Screenshot](https://github.com/A-R-J-U/Code-Editor/blob/main/scr.png?raw=true)
